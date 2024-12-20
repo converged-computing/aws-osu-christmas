@@ -2,7 +2,7 @@
 
 Or Happy Holidays, either works!
 
-- ⭐ [A Message for You](https://converged-computing.github.io/aws-osu-christmas) (and some awesome surface plots!)
+- ⭐ [A Message for You](https://converged-computing.org/aws-osu-christmas/) (and some awesome surface plots!)
 
 ## License
 
